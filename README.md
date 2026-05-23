@@ -2,7 +2,7 @@ Saleha Abid | bscs23204
 
 # PDC-Sp24-bscs23204-Abid
 
-**Course:** Parallel and Distributed Computing (CS-300) — BSCS-23  
+**Course:** Parallel and Distributed Computing
 **Assignment:** 4 — Building Resilient Distributed Systems  
 **Chosen Problem:** Problem 3 — Fault Tolerance (Circuit Breaker)
 
@@ -11,7 +11,7 @@ Saleha Abid | bscs23204
 ## Folder Structure
 
 ```
-studysync/
+asm4/
 ├── app/
 │   ├── __init__.py      ← empty file, must exist
 │   └── main.py
